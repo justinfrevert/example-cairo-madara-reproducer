@@ -6,7 +6,7 @@ trait ISimpleStorage<TContractState> {
 }
 
 #[starknet::contract]
-mod hello_world1 {
+mod hello_world {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
 
