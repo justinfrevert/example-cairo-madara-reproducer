@@ -1,0 +1,18 @@
+{
+    "alpha-goerli": {
+      "joz": {
+        "address": "0x0000000000000000000000000000000000000000000000000000000000000003",
+        "deployed": true,
+        "private_key": "0xc1cf1490de1352865301bb8705143f3ef938f97fdf892f1090dcb5ac7bcd1d",
+        "public_key": "0x3603a2692a2ae60abb343e832ee53b55d6b25f02a3ef1565ec691edc7a209b2",
+        "salt": "0x235b0c0ac9a5a25ad5040f1837c37e76a6f0ab0c802d63f61cd42058db64d5"
+      },
+      "user1": {
+        "address": "0x0000000000000000000000000000000000000000000000000000000000000002",
+        "deployed": true,
+        "private_key": "0x00c1cf1490de1352865301bb8705143f3ef938f97fdf892f1090dcb5ac7bcd1d",
+        "public_key": "0x03603a2692a2ae60abb343e832ee53b55d6b25f02a3ef1565ec691edc7a209b2",
+        "salt": "0x03b37cbe4e9eac89d54c5f7cc6329a63a63e8c8db2bf936f981041e086752463"
+      }
+    }
+  }

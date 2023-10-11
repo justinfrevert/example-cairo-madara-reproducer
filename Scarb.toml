@@ -4,7 +4,7 @@ version = "0.1.0"
 
 [tool.sncast]
 account = "joz"
-accounts-file = "~/my_accounts.json"
+accounts-file = "accounts.json"
 url = "http://127.0.0.1:9944"
 
 [[target.starknet-contract]]
