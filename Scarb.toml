@@ -3,7 +3,7 @@ name = "hello_world"
 version = "0.1.0"
 
 [tool.sncast]
-account = "user1"
+account = "joz"
 accounts-file = "~/my_accounts.json"
 url = "http://127.0.0.1:9944"
 

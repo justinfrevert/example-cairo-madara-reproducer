@@ -1,8 +1,9 @@
 Account deploy
-sncast -u 'http://127.0.0.1:9944' account deploy --max-fee 50000 --name user1
+sncast -u 'http://127.0.0.1:9944' account deploy --max-fee 50000 --name joz
 
 contract declare
-sncast declare --contract-name {name of your contract} --max-fee 500000
+sncast declare --contract-name hello_world --max-fee 500000
 
 contract deploy
 sncast deploy --class-hash {your class hash}
+0x4c4d8f9eaba22a8b2679d2b340222313603d77c07b5b49ca47978f8a5864a47
